@@ -1,1 +1,1 @@
-"# Stock_Price_Prediction" 
+This project uses historical stock data from Yahoo Finance to predict the next day's closing price. A Linear Regression model is trained on the past 30 days of data, with preprocessing done using MinMax scaling. The model's performance is visualized by comparing actual vs predicted prices, demonstrating a basic ML approach to time series forecasting.
